@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css2?family=Nanum+Gothic);
+*{
+    font-family: Nanum+Gothic;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+
+body .btn1{
+    background-color:whitesmoke;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    text-shadow: turquoise;
+}
+body .btn1 h3{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body .btn1 input{
+    padding-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+    width: 400px;
+    height: 40px;
+    font-weight: bold;
+}
+body .btn1 p .lupapassword{
+    text-decoration: none;
+}
+
+body .btn1 p{
+    text-align: right;
+    margin-top: -5px;
+}
+
+body .btn1 .btn2{
+    width: 100%;
+    background-color: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+body .btn1 .btn2 a{
+    color: whitesmoke;
+    text-decoration: none;
+    box-sizing: inherit;
+    text-align: center
+}
+
+body .btn1 a .btn3{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+body .btn1 .btn3{
+    width: 100%;
+    background-color: darkgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+body div .hd1{
+    color: whitesmoke;
+}
+body .btn1 a .btn4 img{
+    vertical-align: center;
+    width: 10px;
+    height: 10px;
+}
